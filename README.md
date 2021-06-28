@@ -1,1 +1,4 @@
 # scmcli
+
+## Features
+* MergeBranch()
